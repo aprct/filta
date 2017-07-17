@@ -1,0 +1,28 @@
+{
+  "name": "filta",
+  "version": "1.0.0",
+  "description": "Filter an array of objects with an object query.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprct/filta.git"
+  },
+  "keywords": [
+    "search",
+    "filter",
+    "javascript",
+    "query"
+  ],
+  "author": "aprct",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aprct/filta/issues"
+  },
+  "homepage": "https://github.com/aprct/filta#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
